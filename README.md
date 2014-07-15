@@ -1,0 +1,1 @@
+removes "JS chart by amCharts" overlay from free AMCHARTS version 3.10.0.free
